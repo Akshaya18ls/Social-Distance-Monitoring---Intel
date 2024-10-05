@@ -54,6 +54,7 @@ scikit-learn-intelex
 ```
 
 3.	Download the YOLOv3 weights and configuration files: yolov3.weights, yolov3.cfg
+ ```wget https://pjreddie.com/media/files/yolov3.weights```
 
 4.	Place the YOLO files (yolov3.weights and yolov3.cfg) in the same directory as the project script.
 
@@ -111,7 +112,9 @@ python social_distance_monitor.py
 ```
 
 2.	The script will:
+
 o	Open a video file (test.mp4) and start monitoring the people in the video for social distancing.
+
 o	Detect people, calculate the distance between them, and send a signal ('1' or '0') to the Arduino to trigger an alert if necessary.
 
 3.	Press q to exit the program.
