@@ -149,3 +149,6 @@ DISTANCE_THRESHOLD = 25
 
 •	Scikit-Learn: For KMeans clustering.
 
+## **Demo**
+
+https://drive.google.com/file/d/1f-DMPsj2y5Yl1HIKdE96n4ObyXidmtrs/view?usp=drive_link
